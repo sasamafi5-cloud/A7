@@ -1,0 +1,6 @@
+{
+  "name": "Luna Smart Pro AI",
+  "description": "Luna je pametni AI asistent i lični sekretar koji vam pomaže sa beleškama, alarmima i odgovorima na vaša pitanja.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
